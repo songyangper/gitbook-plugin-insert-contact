@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-insert-contact",
+  "version": "1.0.3",
+  "description": "gitbook plugin insert contact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songyangper/gitbook-plugin-insert-contact.git"
+  },
+  "keywords": [
+    "gitbook-plugin",
+    "insert",
+    "contact"
+  ],
+  "author": "songy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songyangper/gitbook-plugin-insert-contact/issues"
+  },
+  "homepage": "https://github.com/songyangper/gitbook-plugin-insert-contact#readme"
+}
