@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-insert-contact",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "gitbook plugin insert contact",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,9 @@
     "insert",
     "contact"
   ],
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
   "author": "songy",
   "license": "ISC",
   "bugs": {
