@@ -1,9 +1,5 @@
 .book-author {
     text-align: left;
     padding-left: 15px;
-    background: none;
-    max-height: 30px;
-    min-height: 30px;
-    color: #020000;
     margin-top: -24px;
 }
